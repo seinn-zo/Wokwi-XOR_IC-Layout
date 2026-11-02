@@ -9,11 +9,11 @@ You can also include images in this folder and reference them in the markdown. E
 
 ## How it works
 
-Explain how your project works
+A XOR Logic gate circuit with 2 Inverter, 2 AND and 1 OR.
 
 ## How to test
 
-Explain how to use your project
+Set the inputs and check the outputs
 
 ## External hardware
 
